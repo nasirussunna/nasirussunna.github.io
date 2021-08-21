@@ -1443,6 +1443,10 @@ h6 {
   #why-us .card {
     margin: 0;
   }
+
+  #donate .card {
+    margin: 0;
+  }
 }
 
 @media (max-width: 768px) {
